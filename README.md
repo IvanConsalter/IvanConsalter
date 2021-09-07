@@ -12,7 +12,7 @@
 ## Aprendendo no momento
 <p>
  📕 Engenharia da Computação pela UNIVESP<br>
- 📕 Angular 9 pela Cod3r.com
+ 📕 Angular 9 pela Udemy.com
 </p>
 
 ## Habilidades
