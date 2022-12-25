@@ -12,7 +12,7 @@
 ## Aprendendo no momento
 <p>
  📕 Engenharia da Computação pela UNIVESP<br>
- 📕 Angular pelo https://www.youtube.com/freecodecamp
+ 📕 FullStack Angular/Spring pela [Algaworks](https://www.algaworks.com/)
 </p>
 
 ## Habilidades
