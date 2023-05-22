@@ -5,14 +5,12 @@
 
 ## Sobre
 <p>
-  Profissional com mais de 10 anos de experiencia no setor Metalúrgico.<br>
-  Estudo Engenharia da Computação e estou em busca de uma oportunidade na área de TI, onde possa aplicar meus conhecimentos e habilidades para melhoria contínua.
+  Desenvolvedor Angular | Typescript Jr
 </p>
 
 ## Aprendendo no momento
 <p>
- 📕 Engenharia da Computação pela UNIVESP<br>
-  📕 FullStack Angular/Spring pela <a href="https://www.algaworks.com/">Algaworks</a>
+  📕 Ionic com Spring pela <a href="https://www.udemy.com/">Udemy</a>
 </p>
 
 ## Habilidades
