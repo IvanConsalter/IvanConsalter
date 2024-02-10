@@ -5,12 +5,12 @@
 
 ## Sobre
 <p>
-  Desenvolvedor Angular | Typescript Jr
+  Desenvolvedor Angular | Spring Jr
 </p>
 
 ## Aprendendo no momento
 <p>
-  📕 Ionic com Spring pela <a href="https://www.udemy.com/">Udemy</a>
+  📕 Laravel pela <a href="https://www.udemy.com/course/curso-completo-do-desenvolvedor-laravel">Udemy</a> e Youtube
 </p>
 
 ## Habilidades
@@ -43,11 +43,11 @@
 
 <div>
   <a href="https://www.linkedin.com/in/ivanconsalter" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/1fb28218088b45b065a7445cafa9d5f027a657f17cb4f8b3a9472b1f59952949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
   </a>
 
   <a href="mailto:ivanconsalter1@gmail.com">
-    <img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
   </a>
 </div>
 
